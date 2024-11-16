@@ -24,12 +24,12 @@ Robust Twitter scraping tool that retrieves tweets from a specific user over a d
 2. **Install required dependencies**
 
 3. **Set Up cookies.json**:
-Log in to Twitter on your browser.
-Open Developer Tools (F12 or Ctrl+Shift+I/Cmd+Option+I).
-Go to the Application tab → Cookies → https://x.com or https://twitter.com.
-Export cookies as JSON or manually copy key-value pairs.
-Save as cookies.json in the project root directory.
-Adjust parameters in config.ini 
+- Log in to Twitter on your browser.
+- Open Developer Tools (F12 or Ctrl+Shift+I/Cmd+Option+I).
+- Go to the Application tab → Cookies → https://x.com or https://twitter.com.
+- Export cookies as JSON or manually copy key-value pairs.
+- Save as cookies.json in the project root directory.
+- Adjust parameters in config.ini 
 
 4. **Run the Scraper**:
 python main.py
