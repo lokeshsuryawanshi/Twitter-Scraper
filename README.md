@@ -32,12 +32,12 @@ Robust Twitter scraping tool that retrieves tweets from a specific user over a d
 - Adjust parameters in config.ini 
 
 4. **Run the Scraper**:
-python main.py
-Replace parameters in the main() function to specify username, start date, and end date.
+- python main.py
+- Replace parameters in the main() function to specify the username, start date, and end date.
 
 Notes -
-Keep cookies.json secure. Add it to .gitignore to prevent accidental uploads.
-Regenerate cookies if they expire or become invalid.
+- Keep cookies.json secure. Add it to .gitignore to prevent accidental uploads.
+- Regenerate cookies if they expire or become invalid.
 
 
 
