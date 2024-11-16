@@ -21,7 +21,7 @@ Robust Twitter scraping tool that retrieves tweets from a specific user over a d
    git clone https://github.com/lokeshsuryawanshi/Twitter-Scraper.git
    cd Twitter-Scraper
    
-2. **Install Dependencies required dependencies**
+2. **Install required dependencies**
 
 3. **Set Up cookies.json**:
 Log in to Twitter on your browser.
