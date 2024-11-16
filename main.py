@@ -1,3 +1,6 @@
+# Twitter Scraper to fetch tweets without using X API2
+# This tool exports tweet data to CSV for easy analysis
+
 from twikit import Client, TooManyRequests
 import time
 from datetime import datetime, timedelta
